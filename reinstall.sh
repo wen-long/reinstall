@@ -3,8 +3,8 @@
 # shellcheck disable=SC2086
 
 set -eE
-confhome=https://raw.githubusercontent.com/wen-long/reinstall/main/debian.cfg
-confhome_cn=https://raw.githubusercontent.com/wen-long/reinstall/main/debian.cfg
+confhome=https://raw.githubusercontent.com/wen-long/reinstall/main
+confhome_cn=https://raw.githubusercontent.com/wen-long/reinstall/main
 # confhome_cn=https://www.ghproxy.cc/https://raw.githubusercontent.com/bin456789/reinstall/main
 
 # 默认密码
